@@ -25,7 +25,7 @@ To run the BDA Labs website locally on your machine, follow these steps:
 Clone this repository to your local machine using git clone https://github.com/your-username/bda-labs.git.
 Navigate to the project directory: cd bda-labs.
 
-Open the index.html file in your preferred web browser.
+Open the index.html file in your preferred web browsers.
 
 
 
